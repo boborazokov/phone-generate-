@@ -1,0 +1,15 @@
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+.blok {
+  width: 300px;
+  height: 300px;
+}
+#res {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 10px;
+}
